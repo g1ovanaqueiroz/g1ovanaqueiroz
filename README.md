@@ -4,7 +4,7 @@
 I'm a computer science student at UFCG. I love functional programming, web development and music.
 
 <p align="center"> 
- <a><img align="right" src="https://github.com/giovanaBritoOliveira/giovanabritooliveira/blob/main/Ef1OtnwXsAAyJzC-removebg-preview.png=true&" /></a>
+ <a><img align="right" src="https://github.com/giovanaBritoOliveira/giovanabritooliveira/blob/main/Ef1OtnwXsAAyJzC-removebg-preview.png" /></a>
 </p> 
 
 ### 🛡️ I'm a Guardian

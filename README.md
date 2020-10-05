@@ -13,7 +13,7 @@ Guardians@UFCG is a group formed by computer science students focused on the dis
 And I have been researching these topics and hosting the Guardians podcast #ChamaOSuporte.
  
 ### 🦾 I'm a volunteer at RAS IEEE UFCG
-You probably know the IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge about robotics worldwide, in addition to participating in competitions of programming and robotics.
+You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge about robotics worldwide, in addition to participating in competitions of programming and robotics.
 
 ### 🎶 Fun fact
 I love and have been studying music since I was a kid, so you will probably see some personal music projects around here.

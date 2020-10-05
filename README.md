@@ -17,5 +17,5 @@ You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch th
 I love and have been studying music since I was a kid, so you will probably see some personal music projects around here.
 
 <p align="left"> 
- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
+ <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 </p> 

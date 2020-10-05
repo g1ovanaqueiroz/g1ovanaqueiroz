@@ -10,7 +10,7 @@ I'm a computer science student at UFCG. I love functional programming, web devel
 
 ### 🛡️ I'm a Guardian
 Guardians@UFCG is a group formed by computer science students focused on the dissemination of knowledge in sysadmin, devops and related.
-And I have been researching these topics and hosting the Guardians podcast #ChamaOSuporte.
+And I have been researching these topics and hosting the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
  
 ### 🦾 I'm a volunteer at RAS IEEE UFCG
 You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge about robotics worldwide, in addition to participating in competitions of programming and robotics.

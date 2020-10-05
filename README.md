@@ -20,6 +20,5 @@ I love music and have been studying it since I was a kid, so you will probably s
 [linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/
 [twitter]: https://twitter.com/giovana_bo
 
-<p align="center"> 
- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
-</p> 
+![Gio's Stats](https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&)
+![Gio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&)

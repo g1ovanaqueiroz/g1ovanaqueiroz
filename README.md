@@ -1,4 +1,4 @@
-## Hello world, my name is Giovana Oliveira 👋🏼
+## Hello world, my name is Giovana 👋🏼
 
 
 I'm a computer science student at UFCG. I love functional programming, web development and music.

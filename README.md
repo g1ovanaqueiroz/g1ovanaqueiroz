@@ -9,7 +9,7 @@ And I have been researching these topics and hosting the Guardians podcast [#Cha
 ### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge on robotics worldwide, in addition to participating in competitions of programming and robotics.
 
-### 🎶 Fun fact
+### 🎶 Fun fact...
 I love music and have been studying it since I was a kid, so you will probably see some personal music projects around here.
 
 ### 📫 Connect with me:

@@ -16,7 +16,7 @@ I love music and have been studying it since I was a kid, so you will probably s
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][Twitter]
 
 <p align="center"> 
- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
+ <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 </p> 
 
 [linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/

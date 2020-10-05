@@ -2,6 +2,14 @@
 
 I'm a computer science student at UFCG. I love functional programming, web development and music.
 
+<p align="center"> 
+ <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
+</p> 
+
+<p align="center"> 
+ <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
+</p> 
+
 ### 🛡️ I'm a [Guardian](https://github.com/Guardians-DSC)
 Guardians@UFCG is a group formed by computer science students focused on dissemination of knowledge in sysadmin, devops and related.
 And I have been researching these topics and hosting the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
@@ -19,6 +27,3 @@ I love music and have been studying it since I was a kid, so you will probably s
 
 [linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/
 [twitter]: https://twitter.com/giovana_bo
-
-![Gio's Stats](https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&)
-![Gio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact)

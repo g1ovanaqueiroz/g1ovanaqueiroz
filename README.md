@@ -17,3 +17,12 @@ You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch th
 
 ### 🎶 Fun fact
 I love and have been studying music since I was a kid, so you will probably see some personal music projects around here.
+
+### 📫 Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][Twitter]
+
+
+[linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/
+[twitter]: https://twitter.com/giovana_bo

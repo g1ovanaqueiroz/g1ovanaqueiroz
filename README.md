@@ -21,4 +21,4 @@ I love music and have been studying it since I was a kid, so you will probably s
 [twitter]: https://twitter.com/giovana_bo
 
 ![Gio's Stats](https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&)
-![Gio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&)
+![Gio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact)

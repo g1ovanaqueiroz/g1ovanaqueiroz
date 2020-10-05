@@ -2,7 +2,7 @@
 
 I'm a computer science student at UFCG. I love functional programming, web development and music.
 
-### 🛡️ I'm a Guardian
+### 🛡️ I'm a [Guardian](https://github.com/Guardians-DSC)
 Guardians@UFCG is a group formed by computer science students focused on dissemination of knowledge in sysadmin, devops and related.
 And I have been researching these topics and hosting the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
  

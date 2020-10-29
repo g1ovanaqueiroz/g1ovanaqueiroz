@@ -2,7 +2,7 @@
 
 I'm a computer science student at UFCG. I love functional programming, web development and music.
 
-<img title="Giovana Oliveira's GitHub Stats" align="right" heigth="500" width="400" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&count_private=true&show_icons=true)" />
+<img title="Giovana Oliveira's GitHub Stats" align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&count_private=true&show_icons=true)" />
 
 ### 🛡️ I'm a [Guardian](https://github.com/Guardians-DSC)
 Guardians@UFCG is a group formed by computer science students focused on dissemination of knowledge in sysadmin, devops and related.
@@ -11,7 +11,7 @@ And I have been researching these topics and hosting the Guardians podcast [#Cha
 ### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
 
-<img title="Giovana Oliveira's most used languages" align="right" heigth="500" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" />
+<img title="Giovana Oliveira's most used languages" align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" />
 
 You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge on robotics worldwide, in addition to participating in competitions of programming and robotics.
 

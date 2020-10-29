@@ -14,7 +14,7 @@ And I have been researching these topics and hosting the Guardians podcast [#Cha
 You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge on robotics worldwide, in addition to participating in competitions of programming and robotics.
 
 <p align="center"> 
- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
+ <a><img align="right" src="https://camo.githubusercontent.com/3ae20d713eaa51f16598496bfaca92cd335c1ba1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67696f76616e61627269746f6f6c6976656972612673686f775f69636f6e733d74727565266c61796f75743d636f6d70616374" /></a>
 </p> 
 
 ### 🎶 Fun fact...

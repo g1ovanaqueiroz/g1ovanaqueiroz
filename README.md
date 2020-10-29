@@ -1,4 +1,4 @@
-## Hello world, my name is Giovana 👋🏼
+## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 I'm a computer science student at UFCG. I love functional programming, web development and music.
 

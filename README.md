@@ -2,7 +2,7 @@
 
 I'm a computer science student at UFCG. I love functional programming, web development and music.
 
-<img title="Giovana Oliveira's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&count_private=true&show_icons=true)" />
+<img title="Giovana Oliveira's GitHub Stats" align="right" heigth="400" width="400" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&count_private=true&show_icons=true)" />
 
 ### 🛡️ I'm a [Guardian](https://github.com/Guardians-DSC)
 Guardians@UFCG is a group formed by computer science students focused on dissemination of knowledge in sysadmin, devops and related.

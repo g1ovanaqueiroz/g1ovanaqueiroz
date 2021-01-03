@@ -1,12 +1,12 @@
 ## Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
-I'm a computer science student at UFCG. I love functional programming, web development and music.
+I'm a computer science student at UFCG. I love teaching, functional programming, web development and music.
 
 <img title="Giovana Oliveira's GitHub Stats" align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&count_private=true&show_icons=true)" />
 
 ### 🛡️ I'm a [Guardian](https://github.com/Guardians-DSC)
 Guardians@UFCG is a group formed by computer science students focused on dissemination of knowledge in sysadmin, devops and related.
-And I have been researching these topics and hosting the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
+I'm a host at the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
  
 ### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 

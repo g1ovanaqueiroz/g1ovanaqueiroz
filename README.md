@@ -6,7 +6,7 @@ I'm a computer science student at UFCG. I love teaching, functional programming,
 
 ### 🛡️ I'm a [Guardian](https://github.com/Guardians-DSC)
 Guardians@UFCG is a group formed by computer science students focused on dissemination of knowledge in sysadmin, devops and related.
-I'm a host at the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
+I'm also a host at the Guardians podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
  
 ### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 

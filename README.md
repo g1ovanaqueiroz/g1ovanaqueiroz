@@ -4,7 +4,7 @@ I'm a computer science student at Federal University of Campina Grande.
 
 I love teaching, functional programming, web development and music.
 
-<img title="Giovana Oliveira's GitHub Stats" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true" />
+<img title="Giovana Queiroz's GitHub Stats" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true" />
 
 <img title="Most used languages" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&layout=compact&langs_count=7"/>
 

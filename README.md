@@ -15,5 +15,5 @@ I love teaching, functional programming, web development and music.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
-[linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/
+[linkedin]: https://www.linkedin.com/in/giovana-queiroz-9a5b08116/
 [gmail]: mailto:brittogiovana@gmail.com

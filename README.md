@@ -1,4 +1,4 @@
-## Hello world! <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-wave-gif.gif" width="30">
+## Hello world! <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/blob/blob-wave-reverse-gif.gif" width="30">
 
 I'm a computer science student at Federal University of Campina Grande. I love teaching, functional programming, web development and music.
 

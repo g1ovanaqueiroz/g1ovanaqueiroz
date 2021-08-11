@@ -8,7 +8,7 @@ I love teaching, functional programming, web development and music.
 
 <img title="most used languages" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&layout=compact&langs_count=7"/>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ### 📫 Connect with me:
 

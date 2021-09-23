@@ -6,7 +6,7 @@ I'm a computer science student at Federal University of Campina Grande.
 [@elascomputacao]: https://github.com/elasComputacao
 [@ras-ufcg]: https://github.com/ras-ufcg
 
-Here I had the chance to participate in some amazing communities like [@guardians-DSC][@guardians-dsc] [@elasComputacao][@elascomputacao] [@ras-ufcg][@ras-ufcg] maybe you'd like to check on them 💜
+Here I had the chance to participate in some amazing communities like [@guardians-DSC][@guardians-dsc] [@elasComputacao][@elascomputacao] [@ras-ufcg][@ras-ufcg] you might like to check them out 💜
 
 <img src="https://github.com/g1ovanaqueiroz/g1ovanaqueiroz/blob/main/study.gif?raw=true" width="150" align="center">
 

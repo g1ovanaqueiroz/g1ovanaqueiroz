@@ -10,8 +10,6 @@ Here I had the chance to participate in some amazing communities like [@guardian
 
 <img src="https://github.com/g1ovanaqueiroz/g1ovanaqueiroz/blob/main/study.gif?raw=true" width="150" align="center">
 
-<br>
-
 I love teaching, functional programming, web development and music.
 
 <br>

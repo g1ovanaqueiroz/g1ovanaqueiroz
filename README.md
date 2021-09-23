@@ -26,4 +26,4 @@ I love teaching, functional programming, web development and music.
 
 [linkedin]: https://www.linkedin.com/in/giovana-queiroz-9a5b08116/
 [gmail]: mailto:brittogiovana@gmail.com
-[instagram]: instagram.com/g1ovanaqueiroz
+[instagram]: https://www.instagram.com/g1ovanaqueiroz

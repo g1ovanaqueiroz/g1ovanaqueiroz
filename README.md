@@ -12,9 +12,6 @@ Here I had the chance to participate in some amazing communities like [@guardian
 
 I love teaching, functional programming, web development and music.
 
-<br>
-<br>
-
 <img title="Giovana Queiroz's GitHub Stats" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=g1ovanaqueiroz&show_icons=true&theme=midnight-purple" />
 
 <img title="Most used languages" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ovanaqueiroz&layout=compact&langs_count=7&theme=midnight-purple"/>

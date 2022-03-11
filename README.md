@@ -1,4 +1,4 @@
-# Hello world! <img src="https://c.tenor.com/MP1J--e_nMQAAAAC/studio-ghibli-my-neighbor-totoro.gif" width="70" align="left">
+# Hello world! <img src="https://github.com/g1ovanaqueiroz/g1ovanaqueiroz/blob/main/study.gif?raw=true" width="100" align="left">
 
 I'm a computer science student at Federal University of Campina Grande.
 
@@ -7,8 +7,6 @@ I'm a computer science student at Federal University of Campina Grande.
 [@ras-ufcg]: https://github.com/ras-ufcg
 
 Here I had the chance to participate in some amazing communities like [@guardians-DSC][@guardians-dsc] [@elasComputacao][@elascomputacao] [@ras-ufcg][@ras-ufcg] you might like to check them out 💜
-
-<img src="https://github.com/g1ovanaqueiroz/g1ovanaqueiroz/blob/main/study.gif?raw=true" width="150" align="center">
 
 I love teaching, functional programming, web development and music.
 

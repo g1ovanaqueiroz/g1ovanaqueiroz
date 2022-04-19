@@ -1,4 +1,4 @@
-# Hi threre
+# Hi threre!
 
 I'm a computer science student at Federal University of Campina Grande.
 

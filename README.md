@@ -1,4 +1,4 @@
-# Hello world! <img src="https://github.com/g1ovanaqueiroz/g1ovanaqueiroz/blob/main/study.gif?raw=true" width="100" align="left">
+# Hi threre
 
 I'm a computer science student at Federal University of Campina Grande.
 

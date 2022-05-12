@@ -8,7 +8,7 @@ I'm a computer science student at Federal University of Campina Grande.
 
 Here I had the chance to participate in some amazing communities like [@guardians-DSC][@guardians-dsc] [@elasComputacao][@elascomputacao] [@ras-ufcg][@ras-ufcg] you might like to check them out 💜
 
-There are some topics I love to talk about, like teaching, functional programming, agile methodologies, and music.
+There are some topics I love to talk about like teaching, functional programming, agile methodologies, and music.
 
 <img title="Giovana Queiroz's GitHub Stats" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=g1ovanaqueiroz&show_icons=true&theme=midnight-purple" />
 

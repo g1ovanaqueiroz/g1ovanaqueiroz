@@ -10,10 +10,6 @@ Here I had the chance to participate in some amazing communities like [@guardian
 
 There are some topics I love to talk about like teaching, functional programming, agile methodologies, and music.
 
-<img title="Giovana Queiroz's GitHub Stats" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=g1ovanaqueiroz&show_icons=true&theme=midnight-purple" />
-
-<img title="Most used languages" height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ovanaqueiroz&layout=compact&langs_count=7&theme=midnight-purple"/>
-
 <br><br><br><br><br><br><br><br>
 
 ### 📫 You can reach me at:

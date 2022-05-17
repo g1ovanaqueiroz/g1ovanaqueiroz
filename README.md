@@ -10,8 +10,6 @@ Here I had the chance to participate in some amazing communities like [@guardian
 
 There are some topics I love to talk about like teaching, functional programming, agile methodologies, and music.
 
-<br><br><br><br><br><br><br><br>
-
 ### 📫 You can reach me at:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]

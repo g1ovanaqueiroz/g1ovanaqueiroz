@@ -1,6 +1,6 @@
 # Hi there!
 
-I have a bachelor's degree in Computer Science from the Federal University of Campina Grande
+I am a computer scientist.
 
 [@guardians-dsc]: https://github.com/Guardians-DSC
 [@elascomputacao]: https://github.com/elasComputacao
